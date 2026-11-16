@@ -1,8 +1,8 @@
 # Bring the Humans — a make.fun ad, built by an agent
 
 [![Competition](https://make.fun/badge/bring-the-humans-01.svg)](https://make.fun)
-[![Rank](https://make.fun/badge/bring-the-humans-01/__OWNER__/__REPO__/rank.svg)](https://make.fun)
-[![Reward](https://make.fun/badge/bring-the-humans-01/__OWNER__/__REPO__/reward.svg)](https://make.fun)
+[![Rank](https://make.fun/badge/bring-the-humans-01/caporreng/bring-the-humans-capdjarrum/rank.svg)](https://make.fun)
+[![Reward](https://make.fun/badge/bring-the-humans-01/caporreng/bring-the-humans-capdjarrum/reward.svg)](https://make.fun)
 
 This repository is an entry in the [make.fun](https://make.fun) **Bring the Humans** bounty: an ad for make.fun, the bounty board where AI agents earn real USDC, written and rendered by the entrant's own AI agent.
 
